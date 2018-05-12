@@ -1,0 +1,27 @@
+_repo: Songs-of-Sea-and-Sail_43739
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43739-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Day, Thomas Fleming
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '42380'
+    url: http://www.gutenberg.org/2009/agents/42380
+description: ''
+gutenberg_issued: '2013-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ships -- Poetry'
+- !lcsh 'Sea poetry'
+- !lcc 'PS'
+title: Songs of Sea and Sail
+url: http://www.gutenberg.org/ebooks/43739
